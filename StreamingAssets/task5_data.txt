@@ -1,0 +1,902 @@
+{
+   "Chino Bandido":{
+      "popularity":760,
+      "avg_star":3.8776315789473683,
+      "star_1_ratio":0.05394736842105263,
+      "star_2_ratio":0.07631578947368421,
+      "star_3_ratio":0.14342105263157895,
+      "star_4_ratio":0.3907894736842105,
+      "star_5_ratio":0.3355263157894737
+   },
+   "China Poblano":{
+      "popularity":200,
+      "avg_star":3.0500000000000003,
+      "star_1_ratio":0.145,
+      "star_2_ratio":0.175,
+      "star_3_ratio":0.22,
+      "star_4_ratio":0.405,
+      "star_5_ratio":0.055
+   },
+   "Noodle Asia":{
+      "popularity":185,
+      "avg_star":3.562162162162162,
+      "star_1_ratio":0.010810810810810811,
+      "star_2_ratio":0.13513513513513514,
+      "star_3_ratio":0.2648648648648649,
+      "star_4_ratio":0.4594594594594595,
+      "star_5_ratio":0.12972972972972974
+   },
+   "Panda Express":{
+      "popularity":161,
+      "avg_star":3.1677018633540373,
+      "star_1_ratio":0.11180124223602485,
+      "star_2_ratio":0.07453416149068323,
+      "star_3_ratio":0.4161490683229814,
+      "star_4_ratio":0.32919254658385094,
+      "star_5_ratio":0.06832298136645963
+   },
+   "P F Chang's China Bistro":{
+      "popularity":151,
+      "avg_star":3.1986754966887414,
+      "star_1_ratio":0.06622516556291391,
+      "star_2_ratio":0.2913907284768212,
+      "star_3_ratio":0.2119205298013245,
+      "star_4_ratio":0.23841059602649006,
+      "star_5_ratio":0.19205298013245034
+   },
+   "Pan Asian":{
+      "popularity":132,
+      "avg_star":4.386363636363637,
+      "star_1_ratio":0.030303030303030304,
+      "star_2_ratio":0.05303030303030303,
+      "star_3_ratio":0.03787878787878788,
+      "star_4_ratio":0.25757575757575757,
+      "star_5_ratio":0.6212121212121212
+   },
+   "Wendy's Noodle Cafe":{
+      "popularity":131,
+      "avg_star":4.206106870229007,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.05343511450381679,
+      "star_3_ratio":0.11450381679389313,
+      "star_4_ratio":0.40458015267175573,
+      "star_5_ratio":0.42748091603053434
+   },
+   "Pei Wei Asian Diner":{
+      "popularity":123,
+      "avg_star":3.59349593495935,
+      "star_1_ratio":0.06504065040650407,
+      "star_2_ratio":0.21138211382113822,
+      "star_3_ratio":0.11382113821138211,
+      "star_4_ratio":0.2845528455284553,
+      "star_5_ratio":0.3252032520325203
+   },
+   "Asian Cafe Express":{
+      "popularity":116,
+      "avg_star":4.267241379310345,
+      "star_1_ratio":0.05172413793103448,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.05172413793103448,
+      "star_4_ratio":0.4224137931034483,
+      "star_5_ratio":0.47413793103448276
+   },
+   "Ping Pang Pong":{
+      "popularity":104,
+      "avg_star":3.548076923076923,
+      "star_1_ratio":0.08653846153846154,
+      "star_2_ratio":0.057692307692307696,
+      "star_3_ratio":0.23076923076923078,
+      "star_4_ratio":0.47115384615384615,
+      "star_5_ratio":0.15384615384615385
+   },
+   "Joyful House Chinese Cuisine":{
+      "popularity":98,
+      "avg_star":3.877551020408163,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.05102040816326531,
+      "star_3_ratio":0.12244897959183673,
+      "star_4_ratio":0.7244897959183674,
+      "star_5_ratio":0.10204081632653061
+   },
+   "New York Chinese Restaurant":{
+      "popularity":95,
+      "avg_star":3.6421052631578954,
+      "star_1_ratio":0.06315789473684211,
+      "star_2_ratio":0.09473684210526316,
+      "star_3_ratio":0.2736842105263158,
+      "star_4_ratio":0.2736842105263158,
+      "star_5_ratio":0.29473684210526313
+   },
+   "Pho Kim Long":{
+      "popularity":91,
+      "avg_star":3.131868131868132,
+      "star_1_ratio":0.02197802197802198,
+      "star_2_ratio":0.23076923076923078,
+      "star_3_ratio":0.37362637362637363,
+      "star_4_ratio":0.34065934065934067,
+      "star_5_ratio":0.03296703296703297
+   },
+   "Noodles":{
+      "popularity":78,
+      "avg_star":3.2820512820512824,
+      "star_1_ratio":0.1282051282051282,
+      "star_2_ratio":0.15384615384615385,
+      "star_3_ratio":0.21794871794871795,
+      "star_4_ratio":0.3076923076923077,
+      "star_5_ratio":0.19230769230769232
+   },
+   "China One":{
+      "popularity":72,
+      "avg_star":3.7777777777777777,
+      "star_1_ratio":0.05555555555555555,
+      "star_2_ratio":0.027777777777777776,
+      "star_3_ratio":0.18055555555555555,
+      "star_4_ratio":0.5555555555555556,
+      "star_5_ratio":0.18055555555555555
+   },
+   "Sam Woo BBQ Restaurant":{
+      "popularity":70,
+      "avg_star":1.842857142857143,
+      "star_1_ratio":0.6285714285714286,
+      "star_2_ratio":0.12857142857142856,
+      "star_3_ratio":0.1,
+      "star_4_ratio":0.05714285714285714,
+      "star_5_ratio":0.08571428571428572
+   },
+   "Nee House Chinese Restaurant":{
+      "popularity":70,
+      "avg_star":3.9714285714285715,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.07142857142857142,
+      "star_3_ratio":0.02857142857142857,
+      "star_4_ratio":0.7571428571428571,
+      "star_5_ratio":0.14285714285714285
+   },
+   "Little Dumpling":{
+      "popularity":69,
+      "avg_star":3.565217391304348,
+      "star_1_ratio":0.057971014492753624,
+      "star_2_ratio":0.10144927536231885,
+      "star_3_ratio":0.14492753623188406,
+      "star_4_ratio":0.6086956521739131,
+      "star_5_ratio":0.08695652173913043
+   },
+   "Beijing Noodle No. 9":{
+      "popularity":68,
+      "avg_star":2.764705882352941,
+      "star_1_ratio":0.19117647058823528,
+      "star_2_ratio":0.29411764705882354,
+      "star_3_ratio":0.17647058823529413,
+      "star_4_ratio":0.23529411764705882,
+      "star_5_ratio":0.10294117647058823
+   },
+   "Thai Style Noodle House 2":{
+      "popularity":68,
+      "avg_star":4.470588235294118,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.08823529411764706,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.2647058823529412,
+      "star_5_ratio":0.6470588235294118
+   },
+   "Chin Chin Chinese Restaurant":{
+      "popularity":66,
+      "avg_star":2.803030303030303,
+      "star_1_ratio":0.16666666666666666,
+      "star_2_ratio":0.24242424242424243,
+      "star_3_ratio":0.2878787878787879,
+      "star_4_ratio":0.22727272727272727,
+      "star_5_ratio":0.07575757575757576
+   },
+   "KJ Kitchen":{
+      "popularity":65,
+      "avg_star":3.7538461538461543,
+      "star_1_ratio":0.046153846153846156,
+      "star_2_ratio":0.12307692307692308,
+      "star_3_ratio":0.2,
+      "star_4_ratio":0.2923076923076923,
+      "star_5_ratio":0.3384615384615385
+   },
+   "Jade Palace":{
+      "popularity":63,
+      "avg_star":4.142857142857142,
+      "star_1_ratio":0.031746031746031744,
+      "star_2_ratio":0.047619047619047616,
+      "star_3_ratio":0.12698412698412698,
+      "star_4_ratio":0.3333333333333333,
+      "star_5_ratio":0.4603174603174603
+   },
+   "China A Go Go":{
+      "popularity":61,
+      "avg_star":3.442622950819672,
+      "star_1_ratio":0.04918032786885246,
+      "star_2_ratio":0.13114754098360656,
+      "star_3_ratio":0.2786885245901639,
+      "star_4_ratio":0.4098360655737705,
+      "star_5_ratio":0.13114754098360656
+   },
+   "Zine Noodles Dim Sum":{
+      "popularity":60,
+      "avg_star":3.1500000000000004,
+      "star_1_ratio":0.2,
+      "star_2_ratio":0.15,
+      "star_3_ratio":0.2,
+      "star_4_ratio":0.2,
+      "star_5_ratio":0.25
+   },
+   "The Clever Koi":{
+      "popularity":59,
+      "avg_star":3.2372881355932206,
+      "star_1_ratio":0.1016949152542373,
+      "star_2_ratio":0.2033898305084746,
+      "star_3_ratio":0.2033898305084746,
+      "star_4_ratio":0.3389830508474576,
+      "star_5_ratio":0.15254237288135594
+   },
+   "Siu Wok":{
+      "popularity":57,
+      "avg_star":3.4912280701754383,
+      "star_1_ratio":0.017543859649122806,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.5964912280701754,
+      "star_4_ratio":0.24561403508771928,
+      "star_5_ratio":0.14035087719298245
+   },
+   "Jasmine Express":{
+      "popularity":56,
+      "avg_star":3.428571428571429,
+      "star_1_ratio":0.16071428571428573,
+      "star_2_ratio":0.07142857142857142,
+      "star_3_ratio":0.21428571428571427,
+      "star_4_ratio":0.2857142857142857,
+      "star_5_ratio":0.26785714285714285
+   },
+   "Kung Fu Thai & Chinese Restaurant":{
+      "popularity":55,
+      "avg_star":3.5636363636363635,
+      "star_1_ratio":0.10909090909090909,
+      "star_2_ratio":0.05454545454545454,
+      "star_3_ratio":0.2,
+      "star_4_ratio":0.43636363636363634,
+      "star_5_ratio":0.2
+   },
+   "China Jade":{
+      "popularity":55,
+      "avg_star":3.0545454545454542,
+      "star_1_ratio":0.05454545454545454,
+      "star_2_ratio":0.09090909090909091,
+      "star_3_ratio":0.7272727272727273,
+      "star_4_ratio":0.0,
+      "star_5_ratio":0.12727272727272726
+   },
+   "Li's Bowl":{
+      "popularity":50,
+      "avg_star":3.7,
+      "star_1_ratio":0.06,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.38,
+      "star_4_ratio":0.3,
+      "star_5_ratio":0.26
+   },
+   "Asian BBQ & Noodles":{
+      "popularity":48,
+      "avg_star":4.458333333333333,
+      "star_1_ratio":0.0625,
+      "star_2_ratio":0.020833333333333332,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.22916666666666666,
+      "star_5_ratio":0.6875
+   },
+   "Hakkasan Restaurant":{
+      "popularity":47,
+      "avg_star":4.148936170212766,
+      "star_1_ratio":0.0425531914893617,
+      "star_2_ratio":0.10638297872340426,
+      "star_3_ratio":0.0425531914893617,
+      "star_4_ratio":0.2765957446808511,
+      "star_5_ratio":0.5319148936170213
+   },
+   "George & Son's Asian Cuisine":{
+      "popularity":47,
+      "avg_star":4.148936170212766,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.06382978723404255,
+      "star_3_ratio":0.14893617021276595,
+      "star_4_ratio":0.3617021276595745,
+      "star_5_ratio":0.425531914893617
+   },
+   "Amlee Chinese Cuisine":{
+      "popularity":47,
+      "avg_star":4.319148936170213,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.6808510638297872,
+      "star_5_ratio":0.3191489361702128
+   },
+   "Big Buddha":{
+      "popularity":46,
+      "avg_star":3.826086956521739,
+      "star_1_ratio":0.043478260869565216,
+      "star_2_ratio":0.021739130434782608,
+      "star_3_ratio":0.2391304347826087,
+      "star_4_ratio":0.45652173913043476,
+      "star_5_ratio":0.2391304347826087
+   },
+   "Red 8":{
+      "popularity":46,
+      "avg_star":3.456521739130435,
+      "star_1_ratio":0.06521739130434782,
+      "star_2_ratio":0.06521739130434782,
+      "star_3_ratio":0.391304347826087,
+      "star_4_ratio":0.30434782608695654,
+      "star_5_ratio":0.17391304347826086
+   },
+   "Food Express Chinese Restaurant":{
+      "popularity":45,
+      "avg_star":4.066666666666666,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.044444444444444446,
+      "star_3_ratio":0.13333333333333333,
+      "star_4_ratio":0.5333333333333333,
+      "star_5_ratio":0.28888888888888886
+   },
+   "China Grill":{
+      "popularity":45,
+      "avg_star":3.6222222222222222,
+      "star_1_ratio":0.022222222222222223,
+      "star_2_ratio":0.08888888888888889,
+      "star_3_ratio":0.3333333333333333,
+      "star_4_ratio":0.35555555555555557,
+      "star_5_ratio":0.2
+   },
+   "Noodle ChaCha":{
+      "popularity":44,
+      "avg_star":4.045454545454545,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.045454545454545456,
+      "star_3_ratio":0.06818181818181818,
+      "star_4_ratio":0.6818181818181818,
+      "star_5_ratio":0.20454545454545456
+   },
+   "Chen & Wok":{
+      "popularity":43,
+      "avg_star":3.0,
+      "star_1_ratio":0.18604651162790697,
+      "star_2_ratio":0.09302325581395349,
+      "star_3_ratio":0.37209302325581395,
+      "star_4_ratio":0.23255813953488372,
+      "star_5_ratio":0.11627906976744186
+   },
+   "Diamond Chinese Restaurant":{
+      "popularity":43,
+      "avg_star":4.674418604651162,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.32558139534883723,
+      "star_5_ratio":0.6744186046511628
+   },
+   "Blossom":{
+      "popularity":42,
+      "avg_star":4.285714285714286,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.14285714285714285,
+      "star_4_ratio":0.42857142857142855,
+      "star_5_ratio":0.42857142857142855
+   },
+   "Chop Chop Wok":{
+      "popularity":42,
+      "avg_star":3.880952380952381,
+      "star_1_ratio":0.047619047619047616,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.42857142857142855,
+      "star_4_ratio":0.07142857142857142,
+      "star_5_ratio":0.4523809523809524
+   },
+   "Hong Kong Gourmet Buffet":{
+      "popularity":41,
+      "avg_star":4.341463414634147,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.6585365853658537,
+      "star_5_ratio":0.34146341463414637
+   },
+   "Golden Flower Chinese Cuisine":{
+      "popularity":41,
+      "avg_star":4.0,
+      "star_1_ratio":0.024390243902439025,
+      "star_2_ratio":0.04878048780487805,
+      "star_3_ratio":0.04878048780487805,
+      "star_4_ratio":0.6585365853658537,
+      "star_5_ratio":0.21951219512195122
+   },
+   "China Mama Restaurant":{
+      "popularity":40,
+      "avg_star":3.925,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.1,
+      "star_3_ratio":0.125,
+      "star_4_ratio":0.525,
+      "star_5_ratio":0.25
+   },
+   "Flamingo Palace":{
+      "popularity":40,
+      "avg_star":3.25,
+      "star_1_ratio":0.2,
+      "star_2_ratio":0.075,
+      "star_3_ratio":0.175,
+      "star_4_ratio":0.375,
+      "star_5_ratio":0.175
+   },
+   "Jasmine":{
+      "popularity":39,
+      "avg_star":3.8974358974358974,
+      "star_1_ratio":0.02564102564102564,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.10256410256410256,
+      "star_4_ratio":0.7948717948717948,
+      "star_5_ratio":0.07692307692307693
+   },
+   "China Wok":{
+      "popularity":39,
+      "avg_star":3.358974358974359,
+      "star_1_ratio":0.05128205128205128,
+      "star_2_ratio":0.05128205128205128,
+      "star_3_ratio":0.41025641025641024,
+      "star_4_ratio":0.46153846153846156,
+      "star_5_ratio":0.02564102564102564
+   },
+   "Good China Restaurant":{
+      "popularity":39,
+      "avg_star":4.3589743589743595,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.10256410256410256,
+      "star_3_ratio":0.05128205128205128,
+      "star_4_ratio":0.23076923076923078,
+      "star_5_ratio":0.6153846153846154
+   },
+   "Beijing Restaurant":{
+      "popularity":38,
+      "avg_star":3.7894736842105265,
+      "star_1_ratio":0.05263157894736842,
+      "star_2_ratio":0.07894736842105263,
+      "star_3_ratio":0.10526315789473684,
+      "star_4_ratio":0.5526315789473685,
+      "star_5_ratio":0.21052631578947367
+   },
+   "Red House":{
+      "popularity":38,
+      "avg_star":2.763157894736842,
+      "star_1_ratio":0.10526315789473684,
+      "star_2_ratio":0.39473684210526316,
+      "star_3_ratio":0.3157894736842105,
+      "star_4_ratio":0.0,
+      "star_5_ratio":0.18421052631578946
+   },
+   "Phoenix Palace":{
+      "popularity":36,
+      "avg_star":3.6666666666666665,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.16666666666666666,
+      "star_3_ratio":0.05555555555555555,
+      "star_4_ratio":0.7222222222222222,
+      "star_5_ratio":0.05555555555555555
+   },
+   "Buffet Asia":{
+      "popularity":36,
+      "avg_star":2.9444444444444446,
+      "star_1_ratio":0.16666666666666666,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.5555555555555556,
+      "star_4_ratio":0.2777777777777778,
+      "star_5_ratio":0.0
+   },
+   "China A GoGo":{
+      "popularity":36,
+      "avg_star":3.361111111111111,
+      "star_1_ratio":0.05555555555555555,
+      "star_2_ratio":0.2222222222222222,
+      "star_3_ratio":0.027777777777777776,
+      "star_4_ratio":0.6944444444444444,
+      "star_5_ratio":0.0
+   },
+   "China Chili":{
+      "popularity":35,
+      "avg_star":3.8285714285714287,
+      "star_1_ratio":0.05714285714285714,
+      "star_2_ratio":0.08571428571428572,
+      "star_3_ratio":0.2,
+      "star_4_ratio":0.2857142857142857,
+      "star_5_ratio":0.37142857142857144
+   },
+   "Dragon Palace":{
+      "popularity":35,
+      "avg_star":3.9999999999999996,
+      "star_1_ratio":0.05714285714285714,
+      "star_2_ratio":0.08571428571428572,
+      "star_3_ratio":0.17142857142857143,
+      "star_4_ratio":0.17142857142857143,
+      "star_5_ratio":0.5142857142857142
+   },
+   "China Tango":{
+      "popularity":34,
+      "avg_star":4.4411764705882355,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.08823529411764706,
+      "star_3_ratio":0.029411764705882353,
+      "star_4_ratio":0.23529411764705882,
+      "star_5_ratio":0.6470588235294118
+   },
+   "Asian Island":{
+      "popularity":34,
+      "avg_star":4.617647058823529,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.38235294117647056,
+      "star_5_ratio":0.6176470588235294
+   },
+   "Sing High Chop Suey House":{
+      "popularity":34,
+      "avg_star":3.264705882352941,
+      "star_1_ratio":0.08823529411764706,
+      "star_2_ratio":0.058823529411764705,
+      "star_3_ratio":0.4411764705882353,
+      "star_4_ratio":0.3235294117647059,
+      "star_5_ratio":0.08823529411764706
+   },
+   "Red Shrimp Company":{
+      "popularity":34,
+      "avg_star":2.3529411764705883,
+      "star_1_ratio":0.35294117647058826,
+      "star_2_ratio":0.058823529411764705,
+      "star_3_ratio":0.5294117647058824,
+      "star_4_ratio":0.0,
+      "star_5_ratio":0.058823529411764705
+   },
+   "Pearl":{
+      "popularity":34,
+      "avg_star":4.147058823529412,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.058823529411764705,
+      "star_3_ratio":0.17647058823529413,
+      "star_4_ratio":0.3235294117647059,
+      "star_5_ratio":0.4411764705882353
+   },
+   "Jacky Chan":{
+      "popularity":34,
+      "avg_star":3.147058823529412,
+      "star_1_ratio":0.029411764705882353,
+      "star_2_ratio":0.029411764705882353,
+      "star_3_ratio":0.7058823529411765,
+      "star_4_ratio":0.23529411764705882,
+      "star_5_ratio":0.0
+   },
+   "Noodle Shop":{
+      "popularity":33,
+      "avg_star":1.8787878787878787,
+      "star_1_ratio":0.5151515151515151,
+      "star_2_ratio":0.09090909090909091,
+      "star_3_ratio":0.3939393939393939,
+      "star_4_ratio":0.0,
+      "star_5_ratio":0.0
+   },
+   "Bobo China":{
+      "popularity":33,
+      "avg_star":3.3636363636363638,
+      "star_1_ratio":0.06060606060606061,
+      "star_2_ratio":0.15151515151515152,
+      "star_3_ratio":0.15151515151515152,
+      "star_4_ratio":0.6363636363636364,
+      "star_5_ratio":0.0
+   },
+   "Golden Gate Chinese Restaurant":{
+      "popularity":32,
+      "avg_star":4.0625,
+      "star_1_ratio":0.03125,
+      "star_2_ratio":0.0625,
+      "star_3_ratio":0.0625,
+      "star_4_ratio":0.5,
+      "star_5_ratio":0.34375
+   },
+   "Chopstick Express":{
+      "popularity":32,
+      "avg_star":2.125,
+      "star_1_ratio":0.4375,
+      "star_2_ratio":0.25,
+      "star_3_ratio":0.09375,
+      "star_4_ratio":0.1875,
+      "star_5_ratio":0.03125
+   },
+   "Island Malaysian Cuisine Halal":{
+      "popularity":31,
+      "avg_star":3.4838709677419355,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.22580645161290322,
+      "star_3_ratio":0.16129032258064516,
+      "star_4_ratio":0.5161290322580645,
+      "star_5_ratio":0.0967741935483871
+   },
+   "Golden Egg Roll":{
+      "popularity":31,
+      "avg_star":3.0322580645161286,
+      "star_1_ratio":0.25806451612903225,
+      "star_2_ratio":0.0967741935483871,
+      "star_3_ratio":0.12903225806451613,
+      "star_4_ratio":0.3870967741935484,
+      "star_5_ratio":0.12903225806451613
+   },
+   "Flo's":{
+      "popularity":31,
+      "avg_star":3.8387096774193545,
+      "star_1_ratio":0.03225806451612903,
+      "star_2_ratio":0.12903225806451613,
+      "star_3_ratio":0.22580645161290322,
+      "star_4_ratio":0.1935483870967742,
+      "star_5_ratio":0.41935483870967744
+   },
+   "Tott's Asian Diner":{
+      "popularity":31,
+      "avg_star":3.709677419354839,
+      "star_1_ratio":0.06451612903225806,
+      "star_2_ratio":0.0967741935483871,
+      "star_3_ratio":0.16129032258064516,
+      "star_4_ratio":0.41935483870967744,
+      "star_5_ratio":0.25806451612903225
+   },
+   "China Joe's":{
+      "popularity":31,
+      "avg_star":2.709677419354839,
+      "star_1_ratio":0.16129032258064516,
+      "star_2_ratio":0.16129032258064516,
+      "star_3_ratio":0.4838709677419355,
+      "star_4_ratio":0.1935483870967742,
+      "star_5_ratio":0.0
+   },
+   "Ocha Cuisine":{
+      "popularity":31,
+      "avg_star":3.935483870967742,
+      "star_1_ratio":0.06451612903225806,
+      "star_2_ratio":0.0967741935483871,
+      "star_3_ratio":0.16129032258064516,
+      "star_4_ratio":0.1935483870967742,
+      "star_5_ratio":0.4838709677419355
+   },
+   "Rice & Company":{
+      "popularity":30,
+      "avg_star":2.4,
+      "star_1_ratio":0.26666666666666666,
+      "star_2_ratio":0.4,
+      "star_3_ratio":0.1,
+      "star_4_ratio":0.13333333333333333,
+      "star_5_ratio":0.1
+   },
+   "East Ocean Dim Sum & Seafood Restaurant":{
+      "popularity":30,
+      "avg_star":2.8999999999999995,
+      "star_1_ratio":0.06666666666666667,
+      "star_2_ratio":0.36666666666666664,
+      "star_3_ratio":0.3,
+      "star_4_ratio":0.13333333333333333,
+      "star_5_ratio":0.13333333333333333
+   },
+   "Cook On Wok":{
+      "popularity":30,
+      "avg_star":2.6,
+      "star_1_ratio":0.16666666666666666,
+      "star_2_ratio":0.36666666666666664,
+      "star_3_ratio":0.23333333333333334,
+      "star_4_ratio":0.16666666666666666,
+      "star_5_ratio":0.06666666666666667
+   },
+   "Pan Asia Sushi Chinese Fusion":{
+      "popularity":30,
+      "avg_star":2.7666666666666666,
+      "star_1_ratio":0.26666666666666666,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.43333333333333335,
+      "star_4_ratio":0.3,
+      "star_5_ratio":0.0
+   },
+   "Krazy Buffet":{
+      "popularity":30,
+      "avg_star":3.5,
+      "star_1_ratio":0.03333333333333333,
+      "star_2_ratio":0.06666666666666667,
+      "star_3_ratio":0.4666666666666667,
+      "star_4_ratio":0.23333333333333334,
+      "star_5_ratio":0.2
+   },
+   "Wo Fat":{
+      "popularity":30,
+      "avg_star":3.8000000000000003,
+      "star_1_ratio":0.06666666666666667,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.4,
+      "star_4_ratio":0.13333333333333333,
+      "star_5_ratio":0.4
+   },
+   "Liu's Kitchen":{
+      "popularity":30,
+      "avg_star":3.833333333333333,
+      "star_1_ratio":0.03333333333333333,
+      "star_2_ratio":0.13333333333333333,
+      "star_3_ratio":0.16666666666666666,
+      "star_4_ratio":0.3,
+      "star_5_ratio":0.36666666666666664
+   },
+   "New Asian Kitchen":{
+      "popularity":29,
+      "avg_star":4.482758620689655,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.06896551724137931,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.3103448275862069,
+      "star_5_ratio":0.6206896551724138
+   },
+   "Yummy Yummy Chinese Restaurant":{
+      "popularity":29,
+      "avg_star":2.2413793103448274,
+      "star_1_ratio":0.3103448275862069,
+      "star_2_ratio":0.27586206896551724,
+      "star_3_ratio":0.27586206896551724,
+      "star_4_ratio":0.13793103448275862,
+      "star_5_ratio":0.0
+   },
+   "Noodle Exchange":{
+      "popularity":29,
+      "avg_star":4.0,
+      "star_1_ratio":0.06896551724137931,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.13793103448275862,
+      "star_4_ratio":0.4482758620689655,
+      "star_5_ratio":0.3448275862068966
+   },
+   "Orient House":{
+      "popularity":29,
+      "avg_star":3.793103448275862,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.20689655172413793,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.5862068965517241,
+      "star_5_ratio":0.20689655172413793
+   },
+   "Chang's Hong Kong Cuisine":{
+      "popularity":29,
+      "avg_star":3.655172413793103,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.1724137931034483,
+      "star_3_ratio":0.3103448275862069,
+      "star_4_ratio":0.20689655172413793,
+      "star_5_ratio":0.3103448275862069
+   },
+   "Xo Chinese Food":{
+      "popularity":28,
+      "avg_star":3.0,
+      "star_1_ratio":0.32142857142857145,
+      "star_2_ratio":0.07142857142857142,
+      "star_3_ratio":0.03571428571428571,
+      "star_4_ratio":0.42857142857142855,
+      "star_5_ratio":0.14285714285714285
+   },
+   "China Gourmet":{
+      "popularity":28,
+      "avg_star":3.571428571428571,
+      "star_1_ratio":0.10714285714285714,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.4642857142857143,
+      "star_4_ratio":0.07142857142857142,
+      "star_5_ratio":0.35714285714285715
+   },
+   "Beijing Noodle Cafe":{
+      "popularity":28,
+      "avg_star":4.428571428571428,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.14285714285714285,
+      "star_4_ratio":0.2857142857142857,
+      "star_5_ratio":0.5714285714285714
+   },
+   "Great Wall Cuisine":{
+      "popularity":28,
+      "avg_star":3.4642857142857144,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.17857142857142858,
+      "star_3_ratio":0.25,
+      "star_4_ratio":0.5,
+      "star_5_ratio":0.07142857142857142
+   },
+   "Thai House Restaurant":{
+      "popularity":28,
+      "avg_star":3.464285714285714,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.10714285714285714,
+      "star_3_ratio":0.5,
+      "star_4_ratio":0.21428571428571427,
+      "star_5_ratio":0.17857142857142858
+   },
+   "Grand China":{
+      "popularity":28,
+      "avg_star":3.7857142857142856,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.10714285714285714,
+      "star_3_ratio":0.25,
+      "star_4_ratio":0.39285714285714285,
+      "star_5_ratio":0.25
+   },
+   "Pei Wok":{
+      "popularity":27,
+      "avg_star":3.7037037037037033,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.1111111111111111,
+      "star_3_ratio":0.07407407407407407,
+      "star_4_ratio":0.8148148148148148,
+      "star_5_ratio":0.0
+   },
+   "HK Star":{
+      "popularity":27,
+      "avg_star":4.0,
+      "star_1_ratio":0.14814814814814814,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.1111111111111111,
+      "star_4_ratio":0.18518518518518517,
+      "star_5_ratio":0.5555555555555556
+   },
+   "Cheng's Express":{
+      "popularity":27,
+      "avg_star":1.3703703703703702,
+      "star_1_ratio":0.7407407407407407,
+      "star_2_ratio":0.2222222222222222,
+      "star_3_ratio":0.0,
+      "star_4_ratio":0.0,
+      "star_5_ratio":0.037037037037037035
+   },
+   "Little Dumpling Chinese & Thai Cuisine":{
+      "popularity":27,
+      "avg_star":3.4444444444444446,
+      "star_1_ratio":0.07407407407407407,
+      "star_2_ratio":0.07407407407407407,
+      "star_3_ratio":0.37037037037037035,
+      "star_4_ratio":0.2962962962962963,
+      "star_5_ratio":0.18518518518518517
+   },
+   "Mr. Beijing":{
+      "popularity":27,
+      "avg_star":3.8518518518518516,
+      "star_1_ratio":0.037037037037037035,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.37037037037037035,
+      "star_4_ratio":0.25925925925925924,
+      "star_5_ratio":0.3333333333333333
+   },
+   "J & K Gourmet":{
+      "popularity":27,
+      "avg_star":4.296296296296296,
+      "star_1_ratio":0.0,
+      "star_2_ratio":0.0,
+      "star_3_ratio":0.14814814814814814,
+      "star_4_ratio":0.4074074074074074,
+      "star_5_ratio":0.4444444444444444
+   },
+   "Jimmy Woo's":{
+      "popularity":26,
+      "avg_star":2.1153846153846154,
+      "star_1_ratio":0.15384615384615385,
+      "star_2_ratio":0.6153846153846154,
+      "star_3_ratio":0.19230769230769232,
+      "star_4_ratio":0.038461538461538464,
+      "star_5_ratio":0.0
+   },
+   "Tasty House Chinese Restaurant":{
+      "popularity":26,
+      "avg_star":2.7307692307692313,
+      "star_1_ratio":0.15384615384615385,
+      "star_2_ratio":0.038461538461538464,
+      "star_3_ratio":0.7692307692307693,
+      "star_4_ratio":0.0,
+      "star_5_ratio":0.038461538461538464
+   }
+}
